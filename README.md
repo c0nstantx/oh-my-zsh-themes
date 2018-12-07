@@ -4,4 +4,4 @@ This is a repo for keeping my themes of [oh-my-zsh](https://github.com/robbyruss
 
 ## Intense green-yellow
 
-![Intense green-yello](https://github.com/c0nstantx/oh-my-zsh-themes/master/screenshots/intense_green_yellow.png "Intense Green-Yellow")
+![Intense Green-Yellow](https://github.com/c0nstantx/oh-my-zsh-themes/raw/master/screenshots/intense_green_yellow.png "Intense Green-Yellow")
